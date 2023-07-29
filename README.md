@@ -12,3 +12,5 @@ Many repos are private, GitHub stats might be off!
 
 
 <a href="https://github.com/SnakeFist007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeFist007&layout=compact&theme=dark#gh-dark-mode-only"/></a>
+
+<!-- Icons from https://github.com/tandpfun/skill-icons -->
