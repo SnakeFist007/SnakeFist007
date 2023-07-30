@@ -9,7 +9,7 @@ Many repos are private, GitHub stats might be off!
 </a>
 
 ### Most used skills:
-<img src="/icons/Linux-Dark.svg" width=36 height=36> <img src="/icons/DiscordBots.svg" width=36 height=36> <img src="/icons/Python-Dark.svg" width=36 height=36> <img src="/icons/Powershell-Dark.svg" width=36 height=36> <img src="/icons/Java-Dark.svg" width=36 height=36>
+<img src="/icons/RaspberryPi-Dark.svg" width=36 height=36> <img src="/icons/Linux-Dark.svg" width=36 height=36> <img src="/icons/DiscordBots.svg" width=36 height=36> <img src="/icons/Python-Dark.svg" width=36 height=36> <img src="/icons/Powershell-Dark.svg" width=36 height=36> <img src="/icons/Java-Dark.svg" width=36 height=36>
 
 ### Meh skills:
 <img src="/icons/MongoDB.svg" width=36 height=36> <img src="/icons/Docker.svg" width=36 height=36> <img src="/icons/HTML.svg" width=36 height=36> <img src="/icons/CSS.svg" width=36 height=36> <img src="/icons/JavaScript.svg" width=36 height=36> <img src="/icons/MySQL-Dark.svg" width=36 height=36>
