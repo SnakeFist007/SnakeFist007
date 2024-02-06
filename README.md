@@ -4,16 +4,6 @@ I just like to code sometimes.
 
 Mostly active on Discord, also developing a Discord Bot!
 
-### Connect with me!
-<a href="https://discord.com/users/snakefist">
-  <img src="/icons/Discord.svg" width=36 height=36>
-</a>
-<a href="https://github.com/SnakeFist007">
-  <img src="/icons/Github-Dark.svg" width=36 height=36>
-</a>
-
-<hr>
-
 ## Favorite platforms
 <a href="#">
   <img src="/icons/RaspberryPi-Dark.svg" width=36 height=36>
