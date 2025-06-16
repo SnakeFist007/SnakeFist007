@@ -2,8 +2,6 @@
 
 I just like to code sometimes.
 
-Mostly active on Discord, also developing a Discord Bot!
-
 ## Favorite platforms
 <a href="#">
   <img src="/icons/RaspberryPi-Dark.svg" width=36 height=36>
